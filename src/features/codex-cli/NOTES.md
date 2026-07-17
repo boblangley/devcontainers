@@ -5,7 +5,7 @@ Example usage:
 ```json
 {
   "features": {
-    "ghcr.io/boblangley/features/codex-cli:1": {}
+    "ghcr.io/boblangley/devcontainers/codex-cli:1": {}
   }
 }
 ```

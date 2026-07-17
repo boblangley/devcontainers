@@ -20,7 +20,7 @@ Installs T3 Code and configures a headless `systemd` service on Debian/Ubuntu-ba
 ```json
 {
   "features": {
-    "ghcr.io/boblangley/features/t3code-server:1": {
+    "ghcr.io/boblangley/devcontainers/t3code-server:1": {
       "port": "3773",
       "serveMode": "web"
     }

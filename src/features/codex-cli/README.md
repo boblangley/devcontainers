@@ -14,7 +14,7 @@ Installs the OpenAI Codex CLI and ensures `codex` is available on the container 
 ```json
 {
   "features": {
-    "ghcr.io/boblangley/features/codex-cli:1": {}
+    "ghcr.io/boblangley/devcontainers/codex-cli:1": {}
   }
 }
 ```
