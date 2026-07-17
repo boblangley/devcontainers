@@ -27,7 +27,7 @@ It defaults to Ubuntu 24.04 LTS (`noble`) and can select Ubuntu 26.04 LTS (`reso
 
 - `ghcr.io/boblangley/devcontainers/codex-cli:1`
 - `ghcr.io/boblangley/devcontainers/claude-code-cli:1`
-- `ghcr.io/boblangley/devcontainers/t3code-server:1`
+- `ghcr.io/boblangley/devcontainers/t3code-server:2`
 
 ## Source layout
 
